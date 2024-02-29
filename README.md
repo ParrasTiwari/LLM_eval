@@ -1,2 +1,5 @@
-# LLM_eval
-This repo carries files for evaluating capabilities of LLMs for informal conversations.
+# LLM evaluation
+This repo is dedicated to evaluating LLMs' capabilities for understanding informal human conversations.
+Currently the work is under review to an esteemed journal. The files will be updated after the publication.
+
+**ABSTRACT:** The widespread adoption of Large Language Models (LLMs) for understanding the natural language makes us believe to be de-facto standard for Natural Langugage Processing (NLP) tasks. Though there are impressive results on monolingual tasks, the efficacy of LLMs for multi-lingual is yet to be established. In practice the natural language conversations are not limited to the monolingual. The majority of internet users are multi-lingual. Such multi-lingual userbase has led to exponential growth in code-mix text content. In this study we evaluate the true capabilities and weaknesses of LLMs for informal textual conversations on internet. Considering the morphological linguistic features and syntax of code-mix instance, we have proposed an Ensemble-learning inspired novel architecture, MuKX. **MuKX outperforms the state-of-the-art by _12.68%_.**
